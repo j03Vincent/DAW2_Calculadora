@@ -1,3 +1,7 @@
+Esta aplicación es una simple calculadora hecha en Angular. Permite leer varios números y realizar varias operaciones con ellos como sumas, restas, multiplicaciones y divisiones. Con ella se pretende aprender la interpolación y el binding.
+
+Haz clic en [este enlace](https://j03vincent.github.io/DAW2_Calculadora/), para poder ver el despliegue de la página.
+
 # DAW2Calculadora
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
