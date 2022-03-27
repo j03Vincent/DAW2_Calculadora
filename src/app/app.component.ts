@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'DAW2 Calculadora';
+  student = 'Joe Vincent Geronimo';
   currentNumber = '0';
 	operation = '';
 
